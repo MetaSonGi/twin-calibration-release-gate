@@ -1,0 +1,12 @@
+{
+  "approved": true,
+  "reasons": [],
+  "proposed_offset": 2.0,
+  "baseline_validation_mae": 2.1,
+  "candidate_validation_mae": 0.1,
+  "absolute_improvement": 2.0,
+  "training_samples": 4,
+  "validation_samples": 3,
+  "applied_to_production": false,
+  "method": "training_median_residual_offset"
+}

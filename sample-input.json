@@ -1,0 +1,44 @@
+{
+  "train": [
+    {
+      "time_s": 0,
+      "observed": 22,
+      "predicted": 20
+    },
+    {
+      "time_s": 1,
+      "observed": 23,
+      "predicted": 21
+    },
+    {
+      "time_s": 2,
+      "observed": 24,
+      "predicted": 22
+    },
+    {
+      "time_s": 3,
+      "observed": 25,
+      "predicted": 23
+    }
+  ],
+  "validation": [
+    {
+      "time_s": 4,
+      "observed": 26.1,
+      "predicted": 24
+    },
+    {
+      "time_s": 5,
+      "observed": 27.1,
+      "predicted": 25
+    },
+    {
+      "time_s": 6,
+      "observed": 28.1,
+      "predicted": 26
+    }
+  ],
+  "max_offset": 3,
+  "max_validation_mae": 0.3,
+  "min_improvement": 0.5
+}
